@@ -4,6 +4,7 @@
     <listener class-name="com.selenium.base.BaseClass" />   
   </listeners>
 
+ <!-- running the login Tests -->
 
   <test name="SmokeSuite" >    
            
