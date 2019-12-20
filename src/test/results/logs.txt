@@ -1,0 +1,20 @@
+2019-12-10 18:53:25 INFO  ************* ****** This method will run before the suite*****
+2019-12-10 18:53:25 INFO  *************  This method will run before every testngxml Test
+2019-12-10 18:53:25 INFO  *************  This method will run before every class
+2019-12-10 18:53:25 INFO  *************  This method will run before every @Test 
+2019-12-10 18:53:37 INFO  ************* The test case by name login_001 is getting started
+2019-12-10 18:53:44 INFO  ************* The test case by name login_001 is Pass
+2019-12-10 18:53:44 INFO  *************  This method will run after every @Test 
+2019-12-10 18:53:45 INFO  *************  This method will run after every class
+2019-12-10 18:53:45 INFO  *************  This method will run after every testngxml  test 
+2019-12-10 18:53:45 INFO  ************* ****** This method will run after the suite*****
+2019-12-20 19:35:02 INFO  ************* ****** This method will run before the suite*****
+2019-12-20 19:35:02 INFO  *************  This method will run before every testngxml Test
+2019-12-20 19:35:02 INFO  *************  This method will run before every class
+2019-12-20 19:35:02 INFO  *************  This method will run before every @Test 
+2019-12-20 19:36:16 INFO  ************* The test case by name login_001 is getting started
+2019-12-20 19:36:49 INFO  ************* The test case by name login_001 is Pass
+2019-12-20 19:36:49 INFO  *************  This method will run after every @Test 
+2019-12-20 19:36:52 INFO  *************  This method will run after every class
+2019-12-20 19:36:52 INFO  *************  This method will run after every testngxml  test 
+2019-12-20 19:36:54 INFO  ************* ****** This method will run after the suite*****
